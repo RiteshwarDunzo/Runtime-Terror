@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/077cebf5-2e11-48e8-9ec1-0b56e959970e
 
 ## 🎨 Assets & Credits
 
-Most visual assets used in Runtime Terror were sourced from talented creators on **Itch.io**. Full credit belongs to their respective creators.
+Most visual assets used in Runtime Terror were sourced from talented creators on **Itch.io**. Full credit belongs to their respective creators from itch.io
 
 ### AI Usage Disclosure
 
