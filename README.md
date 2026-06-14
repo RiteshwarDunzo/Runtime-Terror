@@ -1,6 +1,6 @@
 # Runtime Terror
 
-A 2D sci-fi action platformer built with Unity 6.4 and C#.
+A hackathon-built 2D sci-fi action platformer where a game developer gets trapped inside her own corrupted game and must fight intergalactic bugs to escape.
 
 **Runtime Terror** follows **Stacy**, an indie game developer who becomes trapped inside her own game after a catastrophic runtime error corrupts the entire project.
 
