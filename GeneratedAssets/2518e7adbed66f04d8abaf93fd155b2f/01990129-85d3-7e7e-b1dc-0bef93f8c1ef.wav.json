@@ -1,0 +1,13 @@
+{
+    "asset": "2518e7adbed66f04d8abaf93fd155b2f",
+    "fileName": "01990129-85d3-7e7e-b1dc-0bef93f8c1ef.wav",
+    "prompt": "SCI FI ",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "a695a56963466a3552c25e5d5ad9b0d9",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

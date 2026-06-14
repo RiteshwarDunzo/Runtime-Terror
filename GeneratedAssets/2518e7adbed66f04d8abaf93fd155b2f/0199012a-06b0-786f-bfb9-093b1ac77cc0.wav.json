@@ -1,0 +1,13 @@
+{
+    "asset": "2518e7adbed66f04d8abaf93fd155b2f",
+    "fileName": "0199012a-06b0-786f-bfb9-093b1ac77cc0.wav",
+    "prompt": "SCI FI retro 8 bit ",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "862fd2ecb42bd7408d8e3e78c9e2a579",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

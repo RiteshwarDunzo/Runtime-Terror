@@ -1,0 +1,11 @@
+{
+    "asset": "7bde36a5ea54b6644bd0585a6bd7fca0",
+    "fileName": "0198fb21-ea72-7192-b61b-20d6284842c8.pose.json",
+    "prompt": "not taking input stays in one animation",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 616730966,
+    "w3CTraceId": "b3ec864f874b9a7da0c60d7b488b58da",
+    "isTrimmed": false
+}
