@@ -1,4 +1,4 @@
-# 🚀 Runtime Terror
+# Runtime Terror
 
 **Runtime Terror** follows **Stacy**, an indie game developer who becomes trapped inside her own game after a catastrophic runtime error corrupts the entire project.
 
