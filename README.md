@@ -55,5 +55,4 @@ This project is intended for educational, portfolio, and development purposes.
 ---
 
 > 🐞 Fix the game. Save the galaxy. Escape the runtime.
-# Runtime-Terror
- 
+
