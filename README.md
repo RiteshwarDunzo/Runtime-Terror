@@ -45,8 +45,8 @@ AI-assisted tools were used only for minor editing and production tasks such as:
 All game assets originate from human-created asset packs and resources.
 
 ## 🚧 Development Status
-
-Runtime Terror is currently under active development, with additional levels, enemies, mechanics, and story content planned for future updates.
+Runtime Terror was originally built during a **3-day hackathon**. As a result, the current version serves as a **prototype** showcasing the core gameplay, story concept, and technical foundation of the project.
+Development is still ongoing, with plans to expand the game through additional levels, enemies, mechanics, polish, and content updates.
 
 ## 📜 License
 
